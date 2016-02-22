@@ -8,7 +8,7 @@ def getabspath(path):
 fileExt = set()
 Mapper = {'mp4' : 'MediaFiles', 'mpg' : 'MediaFiles', 'mpeg' : 'MediaFiles', 
 'mkv' : 'MediaFiles', 'flv' : 'MediaFiles', 'avi': 'MediaFiles', 'rmvb' : 'MediaFiles',  
-'wmv' : 'MediaFiles', 'mp3' : 'Music', 'wav' : 'Music', 'py' : 'PythonSricpts', 
+'wmv' : 'MediaFiles', 'mp3' : 'Music', 'wav' : 'Music', 'py' : 'PythonScripts', 
 'jpg' : 'Images', 'png': 'Images', 'gif' : 'Images', 'txt' : 'TextFiles', 
 'docx' : 'TextFiles', 'h' : 'cpp', 'htm' : 'html', 'js' : 'JavaScript', 'o' : 'cpp'}
 
